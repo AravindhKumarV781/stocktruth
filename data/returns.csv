@@ -1,0 +1,23 @@
+return_id,ts,location,sku,qty,return_type,reason,disposition,inventory_adjusted,writeoff_recorded
+R00001,2026-10-02 10:39:00,STORE_A,SKU015,1,customer,changed_mind,restocked,Y,NA
+R00002,2026-10-03 10:24:00,STORE_C,SKU018,1,customer,changed_mind,restocked,Y,NA
+R00003,2026-10-04 08:11:00,STORE_B,SKU011,1,customer,changed_mind,restocked,Y,NA
+R00004,2026-10-04 19:26:00,STORE_C,SKU005,1,customer,changed_mind,restocked,Y,NA
+R00005,2026-10-05 16:33:00,STORE_A,SKU015,1,customer,changed_mind,restocked,Y,NA
+R00006,2026-10-05 14:26:00,STORE_C,SKU010,1,customer,changed_mind,restocked,Y,NA
+R00007,2026-10-06 08:23:00,STORE_B,SKU016,1,customer,changed_mind,restocked,Y,NA
+R00008,2026-10-07 13:45:00,STORE_A,SKU014,1,customer,changed_mind,restocked,Y,NA
+R00009,2026-10-07 08:35:00,STORE_B,SKU005,1,customer,changed_mind,restocked,Y,NA
+R00010,2026-10-08 10:08:00,STORE_B,SKU012,1,customer,changed_mind,restocked,Y,NA
+R00011,2026-10-09 12:02:00,STORE_A,SKU003,1,customer,changed_mind,restocked,Y,NA
+R00012,2026-10-09 18:06:00,STORE_C,SKU011,1,customer,changed_mind,restocked,Y,NA
+R00013,2026-10-10 16:39:00,STORE_A,SKU018,1,customer,changed_mind,restocked,Y,NA
+R00014,2026-10-10 12:05:00,STORE_B,SKU003,1,customer,changed_mind,restocked,Y,NA
+R00015,2026-10-10 11:51:00,STORE_A,SKU014,3,customer,defective,discarded,Y,N
+R00016,2026-10-11 10:01:00,STORE_A,SKU009,1,customer,changed_mind,restocked,Y,NA
+R00017,2026-10-11 08:57:00,STORE_B,SKU008,1,customer,changed_mind,restocked,Y,NA
+R00018,2026-10-12 11:23:00,STORE_B,SKU001,1,customer,changed_mind,restocked,Y,NA
+R00019,2026-10-12 10:55:00,STORE_C,SKU015,1,customer,changed_mind,restocked,Y,NA
+R00020,2026-10-13 17:17:00,STORE_B,SKU015,1,customer,changed_mind,restocked,Y,NA
+R00021,2026-10-14 10:11:00,STORE_A,SKU003,1,customer,changed_mind,restocked,Y,NA
+R00022,2026-10-14 14:17:00,STORE_C,SKU002,1,customer,changed_mind,restocked,Y,NA

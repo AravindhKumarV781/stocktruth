@@ -1,0 +1,2 @@
+pick_id,ts,location,sku,bin,qty_requested,qty_found,status
+PK00001,2026-10-11 20:37:00,WH_1,SKU018,A-03-3,20,0,short_pick

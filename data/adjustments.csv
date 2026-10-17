@@ -1,0 +1,7 @@
+adj_id,ts,location,sku,bin,qty_delta,reason,recorded_by_role
+A00001,2026-10-04 16:07:00,STORE_A,SKU016,STORE,-2,damage_writeoff,store_manager
+A00002,2026-10-04 19:04:00,STORE_C,SKU017,STORE,-2,damage_writeoff,store_manager
+A00003,2026-10-04 15:28:00,WH_1,SKU012,A-02-3,-2,damage_writeoff,store_manager
+A00004,2026-10-11 12:03:00,STORE_A,SKU016,STORE,-2,damage_writeoff,store_manager
+A00005,2026-10-11 20:30:00,STORE_C,SKU017,STORE,-2,damage_writeoff,store_manager
+A00006,2026-10-11 16:22:00,WH_1,SKU012,A-02-3,-2,damage_writeoff,store_manager

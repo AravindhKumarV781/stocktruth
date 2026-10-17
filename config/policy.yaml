@@ -1,0 +1,19 @@
+# StockTruth business guardrails. Edit values here; no code change needed.
+version: 1
+confidence:
+  auto_min: 0.80          # below this a human must review
+  review_min: 0.50        # below this the case is flagged "low confidence"
+limits_inr:
+  stock_correction_auto: 2000   # auto-correct stock only up to this value
+  vendor_claim_auto: 5000       # auto-file a vendor claim only up to this value
+minor_variance:
+  max_units: 2
+  max_value_inr: 500            # smaller than this and <= max_units -> auto-close
+never_auto_causes:              # always escalate to a human owner
+  - SUSPECTED_LOSS
+auto_action_types:              # low-risk actions that may run automatically at auto_min confidence
+  - BIN_SEARCH
+require_human_if_injection: true   # any case whose documents contained injected instructions
+require_grounded_evidence: true    # a cause must cite real evidence refs, otherwise -> human review
+max_auto_actions_per_run: 20       # rate limit
+no_individual_names: true          # reports show store / SKU / shift patterns only

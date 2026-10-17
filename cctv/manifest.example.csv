@@ -1,0 +1,3 @@
+clip_id,location,camera,start_ts,file
+clip01,STORE_C,AISLE_3_CAM,2026-10-12 18:05:00,clip01.mp4
+clip02,STORE_A,AISLE_5_CAM,2026-10-12 18:20:00,clip02.mp4

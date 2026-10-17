@@ -1,0 +1,21 @@
+sku,name,category,unit_cost,unit_price,supplier_id
+SKU001,Premium Basmati Rice 5kg,Grocery-Rice,520,690,SUP01
+SKU002,Sona Masoori Rice 5kg,Grocery-Rice,310,420,SUP01
+SKU003,Sunflower Oil 1L,Grocery-Oil,120,155,SUP02
+SKU004,Toor Dal 1kg,Grocery-Pulses,105,140,SUP01
+SKU005,Whole Wheat Atta 5kg,Grocery-Flour,215,275,SUP01
+SKU006,Tea Powder 500g,Beverages,190,245,SUP03
+SKU007,Instant Coffee 100g,Beverages,210,270,SUP03
+SKU008,Energy Drink 6pk,Beverages,330,420,SUP03
+SKU009,Protein Bar 12pk,Snacks,540,720,SUP04
+SKU010,Potato Chips Family Pack,Snacks,45,60,SUP04
+SKU011,Premium Razor Cartridges 8pk,Personal Care,780,1200,SUP05
+SKU012,Shampoo 650ml,Personal Care,260,340,SUP05
+SKU013,Toothpaste 200g,Personal Care,70,95,SUP05
+SKU014,Bluetooth Earphones,Electronics,650,1100,SUP06
+SKU015,USB-C Cable 1m,Electronics,90,199,SUP06
+SKU016,LED Bulb 9W 4pk,Electronics,160,240,SUP06
+SKU017,Dish Wash Liquid 1L,Household,95,130,SUP07
+SKU018,Laundry Detergent 2kg,Household,270,350,SUP07
+SKU019,Floor Cleaner 1L,Household,110,150,SUP07
+SKU020,Notebook A4 Pack of 6,Stationery,180,250,SUP08

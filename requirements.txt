@@ -1,0 +1,9 @@
+pandas
+pyyaml
+requests
+openai>=1.40
+azure-identity
+azure-storage-file-datalake
+azure-search-documents
+azure-cosmos
+streamlit>=1.36

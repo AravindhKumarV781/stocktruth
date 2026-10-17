@@ -1,0 +1,9 @@
+supplier_id,name,short_tolerance_pct,claim_window_days,claim_email
+SUP01,Agro Staples Pvt Ltd,2.0,7,sup01-claims@example-supplier.com
+SUP02,Golden Oils Ltd,1.0,14,sup02-claims@example-supplier.com
+SUP03,Bev Distributors,2.0,7,sup03-claims@example-supplier.com
+SUP04,SnackWorld Foods,2.0,7,sup04-claims@example-supplier.com
+SUP05,CarePlus Brands,1.0,10,sup05-claims@example-supplier.com
+SUP06,VoltTech Electronics,1.0,10,sup06-claims@example-supplier.com
+SUP07,HomeClean Industries,2.0,7,sup07-claims@example-supplier.com
+SUP08,PaperTrail Stationers,3.0,7,sup08-claims@example-supplier.com
